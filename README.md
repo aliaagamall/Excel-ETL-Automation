@@ -1,5 +1,6 @@
 # Excel ETL Automation with Python
 This repository contains a Python script that automates an **Extract, Transform, Load (ETL)** process for processing sales data stored in an Excel file (`sales_data.xlsx`). The script extracts raw data, transforms it by cleaning and enriching it, and loads the processed data back into the Excel file with formatting for better readability and analysis.
+![](https://github.com/aliaagamall/Excel-ETL-Automation/blob/main/Demo.gif)
 ## Features
 - **Extract**: Reads raw sales data from the "Raw Data" sheet of an Excel file.
 - **Transform**:
